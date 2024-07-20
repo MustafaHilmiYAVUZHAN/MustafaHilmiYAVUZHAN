@@ -1,9 +1,15 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=I%20am%20Mustafa%20Hilmi%20YAVUZHAN&fontColor=ffffff&stroke=000&strokeWidth=1&fontSize=30">
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=13&text=I%20am%20Mustafa%20Hilmi%20YAVUZHAN&fontColor=ffffff&stroke=000&strokeWidth=1&fontSize=30">
+
+
+
 </p>
 
 <p align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=100&size=16&duration=1000&pause=297&color=D1CCF7&center=true&vCenter=true&multiline=true&repeat=false&width=550&height=150&lines=This+is+My+page;I+am+passionate+about+working+with+Python+and+Blender.;+I+was+born+in+2006+and+currently+live+in+Turkey.;Feel+free+to+explore+my+projects+and+contributions!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=100&size=16&duration=1000&pause=297&color=AAAAAA&center=true&vCenter=true&multiline=true&width=550&height=150&lines=This+is+My+page;I+am+passionate+about+working+with+Python+and+Blender.;+I+was+born+in+2006+and+currently+live+in+Turkey.;Feel+free+to+explore+my+projects+and+contributions!" alt="Typing SVG" /></a>
 </a> 
 </p>
 
