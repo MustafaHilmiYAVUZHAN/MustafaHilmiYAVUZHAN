@@ -2,7 +2,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=13&text=I%20am%20Mustafa%20Hilmi%20YAVUZHAN&fontColor=ffffff&stroke=000&strokeWidth=1&fontSize=30">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=13&text=Mustafa%20Hilmi%20YAVUZHAN&fontColor=ffffff&stroke=000&strokeWidth=1&fontSize=30">
 
 
 
